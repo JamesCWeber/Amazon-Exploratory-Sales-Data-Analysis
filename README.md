@@ -14,7 +14,7 @@ This project is conducted as a demonstration on exploratory data analysis and th
 * Pivot Table
 * Histogram
 * Box and Whisker Plot
-vCorrelation Matrix
+* Correlation Matrix
 * Scatter Plot
 * Training and Testing Machine Learning Model
 * Linear Regression
